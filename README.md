@@ -41,13 +41,17 @@ By visualizing these KPIs, the dashboard enables management and the sales team t
 
 ### 🔹 Dashboard Views
 
-### 📊 Credit Card Transaction Report
+### 📊 Mobile Sales Report
 
-![Transaction Report](https://github.com/priyajain432/Credit-Card-Financial-Dashboard/blob/main/Credit%20card%20transactional%20report.png)
+![MTD Report](https://github.com/priyajain432/Mobile-Sales-Data/blob/main/Mobile%20sales%20dashboard.png)
 
-### 📊 Credit Card Customer Report
+### 📊 MTD Report
 
-![Customer Report](https://github.com/priyajain432/Credit-Card-Financial-Dashboard/blob/main/Credit%20card%20customer%20report.png)
+![MTD Report](https://github.com/priyajain432/Mobile-Sales-Data/blob/main/MTD%20Report.png)
+
+### 📊 Same Period Last Year Report
+
+![Same Period Last Year Report](https://github.com/priyajain432/Mobile-Sales-Data/blob/main/SamePeriodLY.png)
 ---
 
 ## ✅ Project Outcome
